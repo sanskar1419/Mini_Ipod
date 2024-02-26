@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Mini_Ipod
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mini_Ipod is a web application where we can listen to music and do all the basic features which we can perform in ipod. Application in made using React.
 
-## Available Scripts
+## Tech Stack
 
-In the project directory, you can run:
+**Client:** HTML, CSS, JavaScript, React
 
-### `npm start`
+## Basic Screens
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Homepage
+- Menu Display
+- Settings Display
+- Games Display
+- Music Display
+- Music Player Display
+- Theme Display
+- Wallpaper Display
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Settings Menu - Toggle Theme, Change Wallpaper
+- Listen Song
+- Switch Menu
+- Toggle Artist - To be added in future
+- Play Games - To be added in future
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To install the Habit_Tracker, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone this repository using the following command:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+$ git clone https://github.com/sanskar1419/Mini_Ipod.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install the required dependencies using the following command:
 
-### `npm run eject`
+```
+$ npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+or
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+$ npm i
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Start the application using the following command:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+$ npm start
+```
 
-## Learn More
+Open the application in your web browser by visiting the following URL:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+$ http://localhost:3000
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Screenshots
 
-### Code Splitting
+### Home Screen
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Home](https://github.com/sanskar1419/Project_Screenshot/blob/master/Mini%20Ipod/Screenshot%202024-02-25%20221625.png?raw=true)
 
-### Analyzing the Bundle Size
+### Menu Screen
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Home](https://github.com/sanskar1419/Project_Screenshot/blob/master/Mini%20Ipod/Screenshot%202024-02-25%20221635.png?raw=true)
 
-### Making a Progressive Web App
+### Games
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Home](https://github.com/sanskar1419/Project_Screenshot/blob/master/Mini%20Ipod/Screenshot%202024-02-25%20221702.png?raw=true)
 
-### Advanced Configuration
+### Toggle Theme
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Home](https://github.com/sanskar1419/Project_Screenshot/blob/master/Mini%20Ipod/Screenshot%202024-02-25%20221722.png?raw=true)
